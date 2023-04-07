@@ -1,0 +1,30 @@
+{
+    "motor": [
+        {
+            "nama": "Lexi ",
+            "harga": "25000000"
+        },
+        {
+            "nama": "klx ",
+            "harga": "21000000"
+        },
+        {
+            "nama": "trail",
+            "harga": "190000000"
+        },
+        {
+            "nama": "mio",
+            "harga": "14000000"
+        }
+    ],
+    "mobil": [
+        {
+            "nama": "lamborghini",
+            "harga": "12000000000"
+        },
+        {
+            "nama": "pagini zonda",
+            "harga": "72000000000"
+        }
+    ]
+}
